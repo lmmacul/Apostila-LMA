@@ -1,1 +1,1 @@
-Fundamentos matem√°ticos.
+Fundamentos matem·ticos.
