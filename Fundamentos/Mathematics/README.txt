@@ -1,1 +1,1 @@
-Fundamentos matematicos.
+Fundamentos matemáticos.
