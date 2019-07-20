@@ -1,11 +1,11 @@
 # Apostila-LMA
-Conjunto de materiais para consulta,  treinamento e estudo para uso geral.
+Set of materials for review, training and study for general use.
 
 ## Basics
-Essa pasta fornece um conjunto de materiais que dão fundamento (ou proporcionam melhor base) para tópicos mais avançados. Em **Basics** são apresentados conteúdos, tutoriais e materiais de estatística, matemática e linguagens de programação (R e Python) além de outros tópicos fundamentais para o desenvolvimento de habilidades essenciais.
+This folder provides a set of materials that provide a foundation (or provide a better foundation) for more advanced topics. In ** Basics ** are presented contents, tutorials and materials of statistics, mathematics and programming languages (R and Python) in addition to other key topics for the development of essential skills.
 
 ## Data Assimilation
-Essa pasta contém...
+This folder contains...
 
 ## Useful links
-Essa pasta contém links úteis que são itens pontuais (e por isso não foram criadas pastas excedentes) e que podem auxiliar no desenvolvimento de diversas habilidades e/ou contribuir com ferramentas que facilitam/agilizam projetos.
+This folder contains useful links that are specific items (and therefore no other folders have been created) that can assist in the development of various skills and/or contribute with tools that facilitate/accelerate projects.
