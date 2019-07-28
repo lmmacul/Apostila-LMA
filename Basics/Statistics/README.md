@@ -1,4 +1,4 @@
-# Links Uteis para Cursos e Materiais Online
+# Useful Links
 
-## Curso YouTube de estatística básica: 
+## Basic statistics classes: 
 https://www.youtube.com/user/BCFoltz/videos
