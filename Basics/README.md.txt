@@ -1,1 +1,0 @@
-Esta pasta contem materiais para consulta e base em fundamentos de programação, matemática, estatística, etc.
