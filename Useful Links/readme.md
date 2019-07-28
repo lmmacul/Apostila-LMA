@@ -1,2 +1,2 @@
-## Curso Mendeley
-https://www.youtube.com/watch?v=_FkGlvPg4go
+## Mendeley course (https://www.youtube.com/watch?v=_FkGlvPg4go)
+The _Mendeley_ is a desktop/web program produced by _Elsevier_  to manage, share and search research documents, to discover research data and collaborate online. The _Mendeley_ is a tool that accelerates and organizes the whole process of reading various articles/works and bibliography citation/construction, an indispensable tool in research.
