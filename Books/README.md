@@ -5,7 +5,7 @@ This book is very useful when we want to study ordinary differential equations a
 
 Keywords: {Ordinary Differential Equations, ODE, deSolve, implementation in R, sdSim.}
 
-_Tradução_ : Este livro é muito útil quando queremos estudar equações diferenciais ordinárias e implementá-las em R. Os dois primeiros capítulos são capítulos introdutórios matemáticos, e o terceiro capítulo nos oferece vários exemplos de implementações em R que servem como bons exercícios.
+**_Tradução_** : Este livro é muito útil quando queremos estudar equações diferenciais ordinárias e implementá-las em R. Os dois primeiros capítulos são capítulos introdutórios matemáticos, e o terceiro capítulo nos oferece vários exemplos de implementações em R que servem como bons exercícios.
 
 Palavras-Chave: {Equações diferenciais ordinárias, EDO, deSolve, implementação em R, sdSim.}
 
