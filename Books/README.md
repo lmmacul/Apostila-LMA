@@ -1,6 +1,7 @@
 # A list of very useful books
 
-**Solving Differential Equations in R** (_Soetaert, K., Cash, J., Mazzia, F._) . - This book is very useful when we want to study ordinary differential equations and implement them in R. The first two chapters are mathematical introductory chapters, and the third chapter offers us several examples of implementations in R that serve as good exercises.
+## **Solving Differential Equations in R** (_Soetaert, K., Cash, J., Mazzia, F._).
+This book is very useful when we want to study ordinary differential equations and implement them in R. The first two chapters are mathematical introductory chapters, and the third chapter offers us several examples of implementations in R that serve as good exercises.
 
 Keywords: {Ordinary Differential Equations, ODE, deSolve, implementation in R, sdSim.}
 
