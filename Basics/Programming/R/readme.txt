@@ -1,1 +1,0 @@
-Tutorial para programar em R.
