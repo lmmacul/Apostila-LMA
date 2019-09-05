@@ -4,3 +4,6 @@
 
 
 This series of videos teach some basics concepts about Differential Equations and shows a way to see how differential equations work and where could be aplicated.
+
+**Funções de Crescimento (Growth functions)** - File .pdf (PT-BR)  
+This presentation summarize some importants growth functions used in biology, the presentations contains examples of applications.
