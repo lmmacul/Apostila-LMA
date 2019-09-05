@@ -12,7 +12,7 @@ This folder has some classes and tutorials that give a nice introduction to lang
 
 ## Statistics
 
-This folder contains some content that is very helpful when working with a lot of data...
+This folder contains some content that is very helpful when working with data.
 
 # Português
 # Basics
@@ -25,4 +25,4 @@ Essa pasta possui materiais úteis que fornecem um melhor entendimento e desenvo
 Essa pasta possui algumas aulas e tutoriais que dão uma ótima introdução à linguagens de programação (R e Python) e possui também algumas ferramentas úteis para o desenvolvimento nessas linguagens.
 
 ## Statistics
-Essa pasta possui alguns conteúdos que são muito úteis quando trabalhamos com muitos dados...
+Essa pasta possui alguns conteúdos que são muito úteis quando trabalhamos dados.
