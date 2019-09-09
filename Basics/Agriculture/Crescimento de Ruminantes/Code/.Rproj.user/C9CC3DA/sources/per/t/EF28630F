@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564722252371.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "793907474",
+    "id" : "EF28630F",
+    "lastKnownWriteTime" : 1565378955,
+    "last_content_update" : 1565378955144,
+    "path" : "D:/Desktop 2018/Aula Modelagem Nutrição e Crescimento de Ruminantes/Code/ODE Template.R",
+    "project_path" : "ODE Template.R",
+    "properties" : {
+        "cursorPosition" : "67,0",
+        "scrollLine" : "52"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
