@@ -1,6 +1,6 @@
 # Apostila-LMA
 Set of materials for review, training and study for general use. Some materials are in english, some in portuguese.
-![Mapa da apostila](https://github.com/lmmacul/Apostila-LMA/blob/master/mapa4.jpg)
+![Mapa da apostila](https://github.com/lmmacul/Apostila-LMA/blob/master/mapa5.jpg)
 
 ## Basics
 This folder provides a set of materials that provide a foundation (or provide a better foundation) for more advanced topics. In **Basics** are presented contents, tutorials and materials of statistics, mathematics and programming languages (R and Python) in addition to other key topics for the development of essential skills.
