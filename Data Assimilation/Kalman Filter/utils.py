@@ -9,6 +9,19 @@ from filterpy.stats import plot_covariance_ellipse
 gaussian = namedtuple('Gaussian', ['mean', 'var'])
 gaussian.__repr__ = lambda s: '𝒩(μ={:.3f}, 𝜎²={:.3f})'.format(s[0], s[1])
 
+def gps_stationary_example(n_obs, location):
+    location = location[:n_obs]
+    
+    mean = np.mean(location, axis = 0)
+
+    plt.figure(figsize = (4,4), dpi = 100)
+    plt.plot(location[:,0], location[:,1], 'xC3', markersize = 10, markeredgewidth = 3, label = "Medições")
+    plt.plot(mean[0], mean[1], 'oC0', markersize = 10, alpha = 0.85, label = "Média")
+    plt.xlim(-3, 3)
+    plt.ylim(-3, 3)
+    plt.legend()
+    plt.show()
+    
 def pdf_gaussian(x_axis, gaussian):
     return np.exp(-(x_axis - gaussian.mean)**2 / (2 * gaussian.var)) / (np.sqrt(gaussian.var * 2 * np.pi))
 
@@ -155,3 +168,24 @@ def plot_coelhinhos(t,teo, zs, pred, xs, dono, ax):
     ax.grid()
     ax.legend()
 
+def flatten(m):
+    """Transforms matrix into 1D array"""
+    return np.asarray(m.T).reshape(-1)
+
+def plot_kf_results(gps, x_kf):
+    plt.figure(figsize = (12,4), dpi = 100)
+    plt.subplot(131)
+    plt.plot(gps["x"], gps["y"], '', label = "Trajetória real")
+    plt.plot(gps["x_obs"], gps["y_obs"], 'xC3', alpha = 0.5, label = "Observações")
+    plt.plot(x_kf[:,0], x_kf[:,2], '--C2', label = "Estimativa Filtro de Kalman")
+    plt.xlabel("$S_x$")
+    plt.ylabel("$S_y$")
+    plt.title("Trajetória GPS")
+    
+    plt.subplot(132)
+    plt.plot(x_kf[:,1])
+    plt.title("Velocidade $V_x$")
+    
+    plt.subplot(133)
+    plt.plot(x_kf[:,1])
+    plt.title("Velocidade $V_y$")
